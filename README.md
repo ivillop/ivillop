@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ivillop.github.io-black?style=flat-square)](https://ivillop.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivillop-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivillop/)
 [![Email](https://img.shields.io/badge/Email-rd.akbar%40yandex.com-red?style=flat-square&logo=protonmail)](mailto:rd.akbar@yandex.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp)](https://wa.link/mqe3ym)
 
 </div>
 
