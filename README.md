@@ -20,7 +20,7 @@ Full Stack Developer dengan pengalaman membangun sistem keuangan pemerintah dan 
 
 - 💼 Intern Full Stack Developer di Tabel Data Informatika (via Maganghub Kemnaker Batch 3) — mengembangkan modul sistem keuangan pemerintah
 - 🧑‍🏫 Facilitator & Mentor Class di Coding Camp (powered by DBS Foundation) untuk jalur Full-Stack Web Developer
-- 🎓 Teknik Informatika, STMIK Mardira Indonesia (IPK 3.70/4.00)
+- 🎓 Teknik Informatika, STMIK Mardira Indonesia
 
 ### 🛠️ Tech Stack
 
