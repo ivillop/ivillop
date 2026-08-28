@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Raden Akbar 👋
+# Halo, saya Raden Akbar A. Gumilang 👋
 
 **Full Stack Developer** — Java Spring Boot · Go (Gin/GORM) · Angular · Oracle Database
 
