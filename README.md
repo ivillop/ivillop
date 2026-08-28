@@ -88,15 +88,6 @@ E-commerce sederhana dengan katalog produk, checkout Midtrans Snap, webhook otom
 `Laravel 13` `PHP` `TailwindCSS` `Midtrans`
 
 </td>
-<td width="50%" valign="top">
-
-**[🌐 Portfolio Website](https://github.com/ivillop/portfolio)**
-
-Website portofolio pribadi dengan slider proyek, lightbox galeri, dan scroll reveal animation — dibangun murni HTML/CSS/JS.
-
-`HTML5` `CSS3` `JavaScript`
-
-</td>
 </tr>
 </table>
 
@@ -108,7 +99,6 @@ Punya proyek menarik atau butuh developer berpengalaman di sistem keuangan enter
 
 [![Email](https://img.shields.io/badge/Email-rd.akbar%40yandex.com-red?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rd.akbar@yandex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivillop-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivillop/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/mqe3ym)
 
 ---
 
